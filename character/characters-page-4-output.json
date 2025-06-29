@@ -1,0 +1,38 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "61",
+          "name": "Chief Galactic Federation Officer",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/61.jpeg"
+        },
+        {
+          "id": "62",
+          "name": "Chitz",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/62.jpeg"
+        },
+        {
+          "id": "63",
+          "name": "Chris",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/63.jpeg"
+        },
+        {
+          "id": "64",
+          "name": "Chrysalis",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/64.jpeg"
+        },
+        {
+          "id": "65",
+          "name": "Chunk",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/65.jpeg"
+        }
+      ]
+    }
+  }
+}
